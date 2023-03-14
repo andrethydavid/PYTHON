@@ -25,3 +25,11 @@ print(2 ** 3)
 * resultados
 
 ![image](https://user-images.githubusercontent.com/72534486/224893621-d7e3c34f-02b9-4167-8380-21920e944da4.png)
+
+# Variable 
+
+
+> una variable es una "caja" o lugar donde puedo almacenar objetivos: numeros,texto;etc
+
+> Las variables poseen un nombre llmado: Identacion
+>es como ponerle un nombre  las cajas con alguna etiqueta o marcado 
