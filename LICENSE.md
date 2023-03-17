@@ -33,3 +33,39 @@ print(2 ** 3)
 
 > Las variables poseen un nombre llmado: Identacion
 >es como ponerle un nombre  las cajas con alguna etiqueta o marcado 
+
+
+
+```
+# string
+my_name = "Nicolas"
+print(my_name)
+print(type(my_name))
+
+# int
+my_age = 12
+print(my_age)
+print(type(my_age))
+
+# boolean
+
+# son todos los valores verdaderos y falsos  
+
+
+is_single = False
+print(is_single)
+print(type(is_single))
+
+
+# Inputs
+# realizar una espera 
+my_name = input('¿Cuál es tu nombre? ')
+my_age = input('¿Cuántos años tienes? ')
+print(type(my_name))
+print(type(my_age))
+
+
+
+
+
+```
